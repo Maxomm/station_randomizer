@@ -1,0 +1,201 @@
+Adlershof
+Ahrensfelde
+Alexanderplatz
+Alt-Reinickendorf
+Altglienicke
+Anhalter Bahnhof
+Attilastraße
+Babelsberg
+Baumschulenweg
+Bellevue
+Bergfelde
+Bernau
+Bernau-Friedenstal
+Betriebsbahnhof Rummelsburg
+Beusselstraße
+Biesdorf
+Birkenstein
+Birkenwerder
+Blankenburg
+Blankenfelde
+Borgsdorf
+Bornholmer Straße
+Botanischer Garten
+Brandenburger Tor
+Buch
+Buckower Chaussee
+Bundesplatz
+Charlottenburg
+Eichborndamm
+Eichwalde
+Erkner
+Feuerbachstraße
+Flughafen BER T1-2
+Flughafen BER T5
+Frankfurter Allee
+Fredersdorf
+Friedenau
+Friedrichsfelde Ost
+Friedrichshagen
+Friedrichstraße
+Frohnau
+Gehrenseestraße
+Gesundbrunnen
+Greifswalder Straße
+Griebnitzsee
+Grunewald
+Grünau
+Grünbergallee
+Hackescher Markt
+Halensee
+Hauptbahnhof
+Heerstraße
+Hegermühle
+Heidelberger Platz
+Heiligensee
+Hennigsdorf
+Hermannstraße
+Hermsdorf
+Hirschgarten
+Hohen Neuendorf
+Hohenschönhausen
+Hohenzollerndamm
+Hoppegarten (Mark)
+Humboldthain
+Innsbrucker Platz
+Jannowitzbrücke
+Johannisthal
+Julius-Leber-Brücke
+Jungfernheide
+Karl-Bonhoeffer-Nervenklinik
+Karlshorst
+Karow
+Kaulsdorf
+Köllnische Heide
+Königs Wusterhausen
+Köpenick
+Landsberger Allee
+Lankwitz
+Lehnitz
+Lichtenberg
+Lichtenrade
+Lichterfelde Ost
+Lichterfelde Süd
+Lichterfelde West
+Mahlow
+Mahlsdorf
+Marienfelde
+Marzahn
+Mehrower Allee
+Messe Nord / ICC (Witzleben)
+Messe Süd (Eichkamp)
+Mexikoplatz
+Mühlenbeck-Mönchmühle
+Neuenhagen
+Neukölln
+Nikolassee
+Nordbahnhof
+Nöldnerplatz
+Oberspree
+Olympiastadion
+Oranienburg
+Oranienburger Straße
+Osdorfer Straße
+Ostbahnhof
+Ostkreuz
+Pankow
+Pankow-Heinersdorf
+Petershagen Nord
+Pichelsberg
+Plänterwald
+Poelchaustraße
+Potsdam Hbf
+Potsdamer Platz
+Prenzlauer Allee
+Priesterweg
+Rahnsdorf
+Raoul-Wallenberg-Straße
+Rathaus Steglitz
+Rummelsburg
+Röntgental
+Savignyplatz
+Schichauweg
+Schlachtensee
+Schulzendorf
+Schöneberg
+Schöneweide
+Schönfließ
+Schönhauser Allee
+Schönholz
+Sonnenallee
+Spandau
+Spindlersfeld
+Springpfuhl
+Storkower Straße
+Strausberg
+Strausberg Nord
+Strausberg Stadt
+Stresow
+Sundgauer Straße
+Südende
+Südkreuz
+Tegel
+Teltow Stadt
+Tempelhof
+Tiergarten
+Treptower Park
+Waidmannslust
+Wannsee
+Warschauer Straße
+Wartenberg
+Waßmannsdorf
+Wedding
+Westend
+Westhafen
+Westkreuz
+Wildau
+Wilhelmshagen
+Wilhelmsruh
+Wittenau
+Wollankstraße
+Wuhletal
+Wuhlheide
+Yorckstraße
+Yorckstraße (Großgörschenstraße)
+Zehlendorf
+Zepernick
+Zeuthen
+Zoologischer Garten
+Altglienicke
+Bellevue
+Beusselstraße
+Blankenfelde
+Buch
+Eichwalde
+Frankfurter Allee
+Friedrichstraße
+Griebnitzsee
+Halensee
+Heiligensee
+Hohen Neuendorf
+Innsbrucker Platz
+Karl-Bonhoeffer-Nervenklinik
+Königs Wusterhausen
+Lichtenberg
+Mahlow
+Messe Nord / ICC (Witzleben)
+Neukölln
+Olympiastadion
+Ostkreuz
+Plänterwald
+Priesterweg
+Röntgental
+Schöneberg
+Sonnenallee
+Strausberg
+Südende
+Tiergarten
+Wartenberg
+Westkreuz
+Wollankstraße
+Zehlendorf
