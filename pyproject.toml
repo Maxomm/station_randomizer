@@ -3,8 +3,6 @@ name = "station-randomizer"
 version = "0.1.0"
 description = ""
 authors = ["maxomm <max.warsinke@googlemail.com>"]
-readme = "README.md"
-packages = [{include = "station_randomizer"}]
 
 [tool.poetry.dependencies]
 python = "3.10.8"
