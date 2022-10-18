@@ -8,7 +8,7 @@ def translate_tarif(input):
 
 
 if __name__ == "__main__":
-    dfcsv = pd.read_csv("stations_newest.csv")
+    dfcsv = pd.read_csv("berlin_stations.csv")
     st.title("Stations")
 
     option = st.selectbox("Tarifbereich", ("ABC", "AB", "A"))
