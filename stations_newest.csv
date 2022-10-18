@@ -1,0 +1,169 @@
+Name,Anbindung,Tarifbereich
+Adlershof,"S45, S46, S8, S85, S9",B
+Ahrensfelde,"S7, RB25",B
+Alexanderplatz,"S3, S5, S7, S9, U2, U5, U8, RB14, RE1, RE2, RE7",A
+Alt-Reinickendorf,S25,B
+Altglienicke,"S45, S9",B
+Anhalter Bahnhof,"S1, S2, S25, S26",A
+Attilastraße,S2,B
+Babelsberg,S7,C
+Baumschulenweg,"S45, S46, S47, S8, S85, S9",B
+Bellevue,"S3, S5, S7, S9",A
+Bergfelde,S8,C
+Bernau,"RB24, RE3, RE66",C
+Bernau-Friedenstal,S2,C
+Betriebsbahnhof Rummelsburg,S3,B
+Beusselstraße,"S41, S42",A
+Biesdorf,S5,B
+Birkenstein,S5,C
+Birkenwerder,"S1, RB20",C
+Blankenburg,"S2, S8",B
+Blankenfelde,"S2, RE5, RE7",C
+Borgsdorf,S1,C
+Bornholmer Straße,"S1, S2, S25, S26, S8, S85",B
+Botanischer Garten,S1,B
+Brandenburger Tor,"S1, S2, S25, S26, U5",A
+Buch,S2,B
+Buckower Chaussee,S2,B
+Bundesplatz,"S41, S42, S46, U9",A
+Charlottenburg,"S3, S5, S7, S9, U7, RB14, RE1, RE7",A
+Eichborndamm,S25,B
+Eichwalde,"S46, S8",C
+Erkner,"S3, RE1",C
+Feuerbachstraße,S1,B
+Flughafen BER T1-2,"S45, S9, FEX, RB14, RB22, RE7",C
+Flughafen BER T5,"S45, S9",C
+Frankfurter Allee,"S41, S42, S8, S85, U5",A
+Fredersdorf,S5,C
+Friedenau,S1,B
+Friedrichsfelde Ost,"S5, S7, S75",B
+Friedrichshagen,S3,B
+Friedrichstraße,"S1, S2, S25, S26, S3, S5, S7, S9, U6, RB14, RB21, RB22, RE1, RE2, RE7",A
+Frohnau,S1,B
+Gehrenseestraße,S75,B
+Gesundbrunnen,"S1, S2, S25, S26, S41, S42, U8, FEX, RB27, RE3, RE5, RE6, RE66",A
+Greifswalder Straße,"S41, S42, S8, S85",A
+Griebnitzsee,"S7, RB21, RB22",C
+Grunewald,S7,B
+Grünau,"S46, S8, S85",B
+Grünbergallee,"S45, S9",B
+Hackescher Markt,"S3, S5, S7, S9",A
+Halensee,"S41, S42, S46",A
+Hauptbahnhof,"S3, S5, S7, S9, U5, FEX, RB10, RB14, RB21, RB22, RE1, RE2, RE3, RE4, RE5, RE7",A
+Heerstraße,"S3, S9",B
+Hegermühle,S5,C
+Heidelberger Platz,"S41, S42, S46, U3",A
+Heiligensee,S25,B
+Hennigsdorf,"RB20, RB55, RE6",C
+Hermannstraße,"S41, S42, S45, S46, U8",A
+Hermsdorf,S1,B
+Hirschgarten,S3,B
+Hohen Neuendorf,"S1, S8",C
+Hohenschönhausen,"S75, RB12",B
+Hohenzollerndamm,"S41, S42, S46",A
+Hoppegarten (Mark),S5,C
+Humboldthain,"S1, S2, S25, S26",A
+Innsbrucker Platz,"S41, S42, S46, U4",A
+Jannowitzbrücke,"S3, S5, S7, S9, U8",A
+Johannisthal,"S45, S46, S8, S85, S9",B
+Julius-Leber-Brücke,S1,A
+Jungfernheide,"S41, S42, U7, RB10, RB13, RE4, RE6",A
+Karl-Bonhoeffer-Nervenklinik,"S25, U8",B
+Karlshorst,S3,B
+Karow,"S2, RB27",B
+Kaulsdorf,S5,B
+Köllnische Heide,"S45, S46, S47",B
+Königs Wusterhausen,"S46, RB22, RB24, RB36, RE2",C
+Köpenick,S3,B
+Landsberger Allee,"S41, S42, S8, S85",A
+Lankwitz,"S25, S26",B
+Lehnitz,S1,C
+Lichtenberg,"S5, S7, S75, U5, RB12, RB25, RB26",B
+Lichtenrade,S2,B
+Lichterfelde Ost,"S25, S26, RE3, RE4, RE5",B
+Lichterfelde Süd,"S25, S26",B
+Lichterfelde West,S1,B
+Mahlow,S2,C
+Mahlsdorf,S5,B
+Marienfelde,S2,B
+Marzahn,S7,B
+Mehrower Allee,S7,B
+Messe Nord / ICC (Witzleben),"S41, S42, S46, U2",A
+Messe Süd (Eichkamp),"S3, S9",B
+Mexikoplatz,S1,B
+Mühlenbeck-Mönchmühle,S8,C
+Neuenhagen,S5,C
+Neukölln,"S41, S42, S45, S46, S47, U7",A
+Nikolassee,"S1, S7",B
+Nordbahnhof,"S1, S2, S25, S26",A
+Nöldnerplatz,"S5, S7, S75",B
+Oberspree,S47,B
+Olympiastadion,"S3, S9",B
+Oranienburg,"RB12, RB20, RE5",C
+Oranienburger Straße,"S1, S2, S25, S26",A
+Osdorfer Straße,"S25, S26",B
+Ostbahnhof,"S3, S5, S7, S9, RE1",A
+Ostkreuz,"S3, S41, S42, S5, S7, S75, S8, S85, FEX, RB12, RB14, RB24, RB25, RB26, RE1, RE2, RE7",A
+Pankow,"S2, S8, U2",B
+Pankow-Heinersdorf,"S2, S8",B
+Petershagen Nord,S5,C
+Pichelsberg,"S3, S9",B
+Plänterwald,"S8, S85, S9",B
+Poelchaustraße,S7,B
+Potsdam Hbf,"RB20, RB21, RB22, RB23, RE1",C
+Potsdamer Platz,"S1, S2, S25, S26, U2, RB10, RE3, RE4, RE5",A
+Prenzlauer Allee,"S41, S42, S8, S85",A
+Priesterweg,"S2, S25, S26",B
+Rahnsdorf,S3,B
+Raoul-Wallenberg-Straße,S7,B
+Rathaus Steglitz,"S1, U9",B
+Rummelsburg,S3,B
+Röntgental,S2,C
+Savignyplatz,"S3, S5, S7, S9",A
+Schichauweg,S2,B
+Schlachtensee,S1,B
+Schulzendorf,S25,B
+Schöneberg,"S1, S41, S42, S46",A
+Schöneweide,"S45, S46, S47, S8, S85, S9, RB24",B
+Schönfließ,S8,C
+Schönhauser Allee,"S41, S42, S8, S85, U2",A
+Schönholz,"S1, S25, S26",B
+Sonnenallee,"S41, S42",A
+Spandau,"U7, RB10, RB13, RB14, RE2, RE4, RE6",B
+Spindlersfeld,S47,B
+Springpfuhl,"S7, S75",B
+Storkower Straße,"S41, S42, S8, S85",A
+Strausberg,"S5, RB26",C
+Strausberg Nord,S5,C
+Strausberg Stadt,S5,C
+Stresow,"S3, S9",B
+Sundgauer Straße,S1,B
+Südende,"S25, S26",B
+Südkreuz,"S2, S25, S26, S41, S42, S46, RB10, RE3, RE4, RE5",A
+Tegel,"S25, U6",B
+Teltow Stadt,"S25, S26",C
+Tempelhof,"S41, S42, S45, S46, U6",A
+Tiergarten,"S3, S5, S7, S9",A
+Treptower Park,"S41, S42, S8, S85, S9",A
+Waidmannslust,S1,B
+Wannsee,"S1, S7, RB21, RB22, RB33, RE1, RE7",B
+Warschauer Straße,"S3, S5, S7, S9, U1, U3",A
+Wartenberg,S75,B
+Waßmannsdorf,"S45, S9",C
+Wedding,"S41, S42, U6",A
+Westend,"S41, S42",A
+Westhafen,"S41, S42, U9",A
+Westkreuz,"S3, S41, S42, S46, S7, S9",A
+Wildau,"S46, S8",C
+Wilhelmshagen,S3,B
+Wilhelmsruh,"S1, S26",B
+Wittenau,"S1, S26, U8",B
+Wollankstraße,"S1, S25, S26",B
+Wuhletal,"S5, U5",B
+Wuhlheide,S3,B
+Yorckstraße,"S2, S25, S26, U7",A
+Yorckstraße (Großgörschenstraße),"S1, U7",A
+Zehlendorf,S1,B
+Zepernick,S2,C
+Zeuthen,"S46, S8",C
+Zoologischer Garten,"S3, S5, S7, S9, U2, U9, RB14, RB21, RB22, RE1, RE2, RE7",A
