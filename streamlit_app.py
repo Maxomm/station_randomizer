@@ -26,7 +26,5 @@ if __name__ == "__main__":
         next_station_text.subheader(filt["Name"].iloc[random_station])
         trains.subheader(filt["Anbindung"].iloc[random_station])
 
-    # st.text("All Stations")
-    st.empty()
     with st.expander("All Stations"):
         st.dataframe(dfcsv, 1000, 1000)
