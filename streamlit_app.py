@@ -1,10 +1,11 @@
-import streamlit as st
 import random
+
 import pandas as pd
+import streamlit as st
 
 
-def translate_tarif(input):
-    return "A|B|C" if input == "ABC" else "A|B" if input == "AB" else "A"
+def translate_tarif(opt):
+    return "A|B|C" if opt == "ABC" else "A|B" if opt == "AB" else "A"
 
 
 if __name__ == "__main__":
@@ -27,7 +28,8 @@ if __name__ == "__main__":
         rnd_st = random.randrange(0, len(filt))
         next_station_text.subheader(filt["name"].iloc[rnd_st])
         trains.subheader(filt["trains"].iloc[rnd_st])
-        lat, lon = filt["latitude"].iloc[rnd_st], filt["longitude"].iloc[rnd_st]
+        lat = filt["latitude"].iloc[rnd_st]
+        lon = filt["longitude"].iloc[rnd_st]
         maps.map(pd.DataFrame({"latitude": [lat], "longitude": [lon]}))
 
     with st.expander("All Stations"):
