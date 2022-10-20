@@ -8,21 +8,19 @@ def translate_tarif(opt):
     return "A|B|C" if opt == "ABC" else "A|B" if opt == "AB" else "A"
 
 
+dfcsv = pd.read_csv("berlin_stations.csv")
+
 if __name__ == "__main__":
-    dfcsv = pd.read_csv("berlin_stations.csv")
     st.title("Berlin Stations")
     option = st.selectbox("Tarifbereich", ("ABC", "AB", "A"))
     random_button = st.button("Random Station")
 
     col1, col2 = st.columns(2)
-    with col1:
-        next_station_text = st.subheader(" ")
-    with col2:
-        trains = st.subheader(" ")
+    with col1: next_station_text = st.subheader(" ")
+    with col2: trains = st.subheader(" ")
 
     filt = dfcsv[dfcsv["area"].str.contains(translate_tarif(option))]
-    mapdf = filt[["latitude", "longitude"]]
-    maps = st.map(mapdf)
+    maps = st.map(filt[["latitude", "longitude"]])
 
     if random_button:
         rnd_st = random.randrange(0, len(filt))
