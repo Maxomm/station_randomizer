@@ -35,4 +35,4 @@ if random_button:
 
     lat = filt["latitude"].iloc[rnd_st]
     lon = filt["longitude"].iloc[rnd_st]
-    maps.map(pd.DataFrame({"latitude": [lat], "longitude": [lon]}))
+    maps.map(pd.DataFrame({"latitude": [lat], "longitude": [lon]}),use_container_width=False)
