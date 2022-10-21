@@ -20,13 +20,14 @@ option = st.selectbox("Tarifbereich", ("ABC", "AB", "A"))
 random_button = st.button("Random Station")
 
 filt = dfcsv[dfcsv["area"].str.contains(translate_tarif(option))]
-maps = st.map(filt[["latitude", "longitude"]],use_container_width=False)
 
 col1, col2 = st.columns(2)
 with col1:
     next_station_text = st.subheader("")
 with col2:
     trains = st.subheader("")
+
+maps = st.map(filt[["latitude", "longitude"]])
 
 if random_button:
     rnd_st = random.randrange(0, len(filt))
