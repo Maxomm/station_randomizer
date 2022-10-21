@@ -20,7 +20,7 @@ option = st.selectbox("Tarifbereich", ("ABC", "AB", "A"))
 random_button = st.button("Random Station")
 
 filt = dfcsv[dfcsv["area"].str.contains(translate_tarif(option))]
-maps = st.map(filt[["latitude", "longitude"]])
+maps = st.map(filt[["latitude", "longitude"]],use_container_width=False)
 
 col1, col2 = st.columns(2)
 with col1:
@@ -35,4 +35,4 @@ if random_button:
 
     lat = filt["latitude"].iloc[rnd_st]
     lon = filt["longitude"].iloc[rnd_st]
-    maps.map(pd.DataFrame({"latitude": [lat], "longitude": [lon]}),use_container_width=False)
+    maps.map(pd.DataFrame({"latitude": [lat], "longitude": [lon]}))
