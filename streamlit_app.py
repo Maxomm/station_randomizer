@@ -8,7 +8,7 @@ def translate_tarif(opt):
     return "A|B|C" if opt == "ABC" else "A|B" if opt == "AB" else "A"
 
 
-@st.cache
+@st.cache_data
 def load_data():
     return pd.read_csv("berlin_stations.csv")
 
