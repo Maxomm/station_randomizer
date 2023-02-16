@@ -3,8 +3,6 @@ name = "station-randomizer"
 version = "0.1.0"
 description = ""
 authors = ["maxomm <max.warsinke@googlemail.com>"]
-readme = "README.md"
-packages = [{include = "station_randomizer"}]
 
 [tool.poetry.dependencies]
 python = "^3.10"
@@ -12,6 +10,10 @@ streamlit = "^1.16.0"
 pandas = "^1.5.2"
 six = "^1.16.0"
 
+[tool.poetry.group.dev.dependencies]
+black = "^22.10.0"
+flake8 = "^5.0.4"
+pylint = "^2.15.5"
 
 [build-system]
 requires = ["poetry-core"]
